@@ -1,0 +1,3 @@
+name,AAs,positions,reference_annotation_name,new_annotation_name,reference_map,codon_table
+pCMV-T7-SpCas9(MRRWMR)-P2A-EGFP_(RAS2816),"M,R,R,W,M,R","1135, 1136, 1218, 1219, 1335, 1337",SpCas9,SpCas9-MRRWMR,minimal_RTW3027_map.gb,codon_table_table.txt
+pCMV-T7-SpCas9(KRHWMR)-P2A-EGFP_(RAS3808),"K,R,H,W,M,R","1135, 1136, 1218, 1219, 1335, 1337",SpCas9,SpCas9-KRHWMR,minimal_RTW3027_map.gb,codon_table_table.txt
